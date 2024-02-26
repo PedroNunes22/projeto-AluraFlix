@@ -12,7 +12,7 @@ CSS
 JavaScript
 
 ## imagens:
-![print-principal](https://github.com/PedroNunes22/projeto-AluraFlix/assets/119435629/872a2cf8-be98-46b6-8a34-198aec7402d6)
+![print-principal](https://github.com/PedroNunes22/projeto-AluraFlix/assets/119435629/8fff11a3-7392-40ba-bde9-aa3b36facefd)
 
 
 ### É possivel adicionar quantos filmes quiser!
