@@ -15,7 +15,7 @@ JavaScript
 ![print-principal](https://github.com/PedroNunes22/projeto-AluraFlix/assets/119435629/872a2cf8-be98-46b6-8a34-198aec7402d6)
 
 
-### é possivel adicionar quantos filmes quiser!
+### É possivel adicionar quantos filmes quiser!
 ![print-filmes](https://github.com/PedroNunes22/projeto-AluraFlix/assets/119435629/5ecd47c7-fe29-404c-98c6-a0c97bf5c35c)
 
 
