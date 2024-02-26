@@ -20,7 +20,7 @@ JavaScript
 
 
 ## O Que Aprendi
-Durante o desenvolvimento deste projeto, aprendi os seguintes conceitos e técnicas:
+### Durante o desenvolvimento deste projeto, aprendi os seguintes conceitos e técnicas:
 
 Estrutura básica de uma página web com HTML.
 
